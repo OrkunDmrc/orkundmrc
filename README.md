@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Orkun Demirci</h1>
-<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i0.wp.com/media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?resize=404%2C226&ssl=1"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orkundmrc&label=Profile%20views&color=0e75b6&style=flat" alt="orkundmrc" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **.net Core, MSSQL, HTML, CSS, Javascript, Flutter, Kotlin**
+- 💬 Ask me about **.net Core, MSSQL, HTML, CSS, Javascript, Flutter, Kotlin, React, Typescript**
 
 - 📫 How to reach me **orkundemircit147@gmail.com**
 
